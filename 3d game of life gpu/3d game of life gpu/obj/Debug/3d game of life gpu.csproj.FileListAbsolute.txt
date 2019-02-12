@@ -1,0 +1,21 @@
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\3d game of life gpu.exe.config
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\3d game of life gpu.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\3d game of life gpu.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\Alea.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\Alea.IL.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\Alea.Parallel.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Desktop.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Debug\3d game of life gpu.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Debug\3d game of life gpu.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\FSharp.Core.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Debug\3d game of life gpu.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Debug\3d game of life gpu.csproj.CopyComplete
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.DXGI.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Debug\SharpDX.DXGI.pdb

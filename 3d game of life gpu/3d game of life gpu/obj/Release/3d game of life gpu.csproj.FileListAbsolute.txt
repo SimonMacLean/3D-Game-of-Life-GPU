@@ -1,0 +1,54 @@
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.exe.config
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\Alea.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\Alea.IL.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\Alea.Parallel.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\FSharp.Core.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Desktop.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.DXGI.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Mathematics.dll
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Desktop.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Direct3D9.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.DXGI.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Mathematics.pdb
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.csproj.CopyComplete
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.exe
+C:\Users\simon\Documents\Visual Studio 2017\Projects\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.exe.config
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.exe
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\Alea.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\Alea.IL.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\Alea.Parallel.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\FSharp.Core.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Desktop.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Diagnostics.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.DXGI.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Mathematics.dll
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\Alea.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Desktop.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Desktop.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Diagnostics.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Direct3D9.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Direct3D9.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.DXGI.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.DXGI.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Mathematics.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\SharpDX.Mathematics.xml
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.csproj.CopyComplete
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.exe
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.pdb
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.exe.manifest
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\bin\Release\3d game of life gpu.application
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.exe.manifest
+C:\Users\simon\Desktop\Downloads\3d game of life gpu\3d game of life gpu\obj\Release\3d game of life gpu.application
