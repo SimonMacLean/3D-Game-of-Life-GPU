@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/3d game of life gpu/3d game of life gpu/bin
+/3d game of life gpu/3d game of life gpu/obj
+/3d game of life gpu/.vs
+/3d game of life gpu/3d game of life gpu/*.user
