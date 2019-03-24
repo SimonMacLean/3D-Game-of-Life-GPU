@@ -8,6 +8,7 @@ using SharpDX.Windows;
 using D3D9Device = SharpDX.Direct3D9.DeviceEx;
 using CUDADevice = Alea.Device;
 using System.Diagnostics;
+using System.Reflection;
 using SharpDX.Mathematics.Interop;
 using System.Windows.Forms;
 
@@ -30,7 +31,7 @@ namespace _3d_game_of_life_gpu
         private static bool isMouseDown;
         private static int2 mousePosition = new int2(-1, 0);
         private static Vector3 upDirection = new Vector3(0, 1, 0);
-        private static Vector3 cameraPosition = new Vector3(0, 0, 1);
+        private static Vector3 cameraPosition = new Vector3(0.5f, 0.5f, 1.0f);
         private static Vector3 lightPosition = new Vector3(0.6350852961f, 0.6350852961f, 0.6350852961f);
         private static readonly dim3 BlockSize = new dim3(8, 8, 8);
         private static readonly dim3 GridSize = new dim3(Width / BlockSize.x, Height / BlockSize.y, Depth / BlockSize.z);
@@ -260,7 +261,8 @@ namespace _3d_game_of_life_gpu
             deviceId = CUDADevice.Default.Id;
             gpu = Gpu.Get(deviceId);
             gpu.Context.SetCurrent();
-            form = new RenderForm("3D Game of Life") { WindowState = FormWindowState.Maximized, Icon = new System.Drawing.Icon(@"C:\Users\simon\Desktop\Downloads\AleaSample.CS.SimpleD3D9\tutorial\samples\AleaSample.CS.SimpleD3D9\Icon.ico") };
+            var iconStream = Assembly.GetExecutingAssembly().GetManifestResourceStream(typeof(Program), "Icon.ico");
+            form = new RenderForm("3D Game of Life") { WindowState = FormWindowState.Maximized, Icon = new System.Drawing.Icon(iconStream) };
             device = new D3D9Device(
                 new Direct3DEx(),
                 deviceId,
@@ -441,6 +443,7 @@ namespace _3d_game_of_life_gpu
                         clock.Start();
                     break;
                 case Keys.R:
+                case Keys.F5:
                     Setup();
                     break;
                 case Keys.Right:
